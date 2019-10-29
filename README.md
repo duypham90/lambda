@@ -18,3 +18,7 @@ copy file from EC2 to local: scp -i testLambdaPHP.pem ec2-user@ec2-52-205-142-31
 
 serverless deploy function -f getdata && serverless invoke -f getdata -l
 ```
+
+https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59
+
+https://viblo.asia/p/doi-net-ve-microservice-architecture-va-monolithic-architecture-XL6lAAvrlek
